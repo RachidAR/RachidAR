@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RaslanAR (Rachid)</h1>
 <h3 align="center">I am a beginner developer, self-taught</h3>
 
-- 🌱 I’m currently learning **C#,C,AI**
+- 🌱 I’m currently learning **C#, C/C++, AI**
 
 - ⚡ Fun fact **I love strong tea ☕**
 

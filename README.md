@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">I'm a beginner developer, self-taught</h3>
 
-- 🌱 I’m currently learning **Tensorflow, Linux**
+- 🌱 I’m currently learning **Golang, Linux**
 
 - ⚡ Fun fact **I love strong tea ☕**
 

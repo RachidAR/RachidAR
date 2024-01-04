@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ML & Deep learning, Math**
 
-- ⚡ Fun fact **I like strong coffee ☕**
-
 <p align="left">
 </p>
 

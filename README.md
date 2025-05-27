@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachid</h1>
+<h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">Self-taught dev</h3>
 
 - 🌱 I’m currently learning **ML & Deep learning, Math**
